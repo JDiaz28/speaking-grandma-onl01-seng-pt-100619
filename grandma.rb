@@ -1,12 +1,9 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(question)
- 
-
-
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-if question.downcase 
+if question.downcase = "I love you grandma".downcase
   puts "I LOVE YOU TOO PUMPKIN!"
 
 # If you shout, she can hear you (or at least she thinks so) 
