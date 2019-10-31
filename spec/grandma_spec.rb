@@ -5,7 +5,7 @@ describe '#speak_to_grandma' do
 
   it 'responds with HUH?! SPEAK UP, SONNY! unless you are shouting' do
     expect(speak_to_grandma('Hi Nana, how are you?')).to eq 'HUH?! SPEAK UP, SONNY!'
-  end
+  endhttps://www.platinumed.com/
 
   it 'responds with HUH?! SPEAK UP, SONNY! for a second time' do
     expect(speak_to_grandma('Hi!')).to eq 'HUH?! SPEAK UP, SONNY!'
