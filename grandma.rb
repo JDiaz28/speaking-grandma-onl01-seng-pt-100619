@@ -7,7 +7,7 @@ def speak_to_grandma(question)
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
 if question.downcase 
-  puts "HUH?! SPEAK UP SONNY!"
+  puts "I LOVE YOU TOO PUMPKIN!"
 
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
